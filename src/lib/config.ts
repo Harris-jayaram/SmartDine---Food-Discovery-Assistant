@@ -19,7 +19,7 @@ export const API_ENDPOINTS = {
 };
 
 export const ENV = {
-  GOOGLE_PLACES_API_KEY: process.env.GOOGLE_PLACES_API_KEY || 'AIzaSyAc8vUyw_iKuqonfEpiZW0RZRKi3dajfvs',
+  GOOGLE_PLACES_API_KEY: process.env.GOOGLE_PLACES_API_KEY || '',
   FOURSQUARE_API_KEY: process.env.FOURSQUARE_API_KEY || '',
   NODE_ENV: process.env.NODE_ENV || 'development'
 };
