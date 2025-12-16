@@ -21,7 +21,7 @@ A production-ready web application that helps Indian college students and young 
 
 ## 🚀 Live Demo
 
-Visit the live application: [SmartDine Demo](https://work-1-xizdahlpaeezuvdw.prod-runtime.all-hands.dev/)
+Visit the live application: [SmartDine Demo](https://smartdine-ai.netlify.app/)
 
 ### Try These Example Queries:
 - "comfort food homely"
@@ -324,31 +324,3 @@ CMD ["npm", "start"]
 3. **Cuisine queries**: "spicy biryani", "south indian breakfast"
 4. **Group queries**: "date spot", "friends hangout", "family dinner"
 5. **Time queries**: "late night food", "quick lunch"
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Google Places API** for real-time restaurant data
-- **Unsplash** for high-quality restaurant images
-- **Tailwind CSS** for the utility-first CSS framework
-- **Next.js** for the React framework and API routes
-- **Vercel** for seamless deployment platform
-
-## 📞 Support
-
-For support, email [your-email@example.com] or create an issue in the repository.
-
----
-
-**Built with ❤️ for college students who can't decide what to eat!**
